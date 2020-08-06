@@ -6,5 +6,6 @@ public class GitFun {
         System.out.println("Everything is fun");
 
         // I added a ligne on intellej
+        // I added this ligne on github
     }
 }
